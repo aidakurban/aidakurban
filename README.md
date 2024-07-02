@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning game development on Unity, want to create my own 2d game dedicated to the gardening.
 - 📫 How to reach me? Oh, it's easy! 
   Gmail: aida.kurban@gmail.com, 
-  telegram: t_gag, 
-  phone number: 87058836735.
+  telegram: t_gag
